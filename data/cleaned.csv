@@ -1,0 +1,7 @@
+ID,State,City,Locality,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Year_Built,Furnished_Status,Floor_No,Total_Floors,Nearby_Schools,Nearby_Hospitals,Public_Transport_Accessibility,Parking_Space,Security,Amenities,Facing,Owner_Type,Availability_Status,Price_per_SqFt,Age,PT_Score,Amenities_Count,Future_Price_5Y,AppreciationPct,Good_Investment
+1,Karnataka,Bengaluru,Whitefield,Apartment,3,1200,85,2015,Furnished,5,10,4,2,High,1,Gated,Gym;Pool,East,Individual,Available,7083.333333333333,10,2,2,126.13,0.48388235294117643,1
+2,Maharashtra,Mumbai,Bandra,Apartment,2,850,150,2010,Semi-Furnished,7,15,5,3,High,1,Gated,Gym,West,Agent,Available,17647.058823529413,15,2,1,219.79,0.4652666666666666,1
+3,Delhi,New Delhi,Karol Bagh,Apartment,1,500,60,2005,Unfurnished,3,8,2,1,Medium,0,Guard,Clubhouse,North,Individual,Sold,12000.0,20,1,1,89.3,0.4883333333333333,1
+4,Telangana,Hyderabad,Gachibowli,Villa,4,2400,200,2018,Furnished,1,1,6,4,Medium,2,Gated,Gym;Clubhouse,South,Builder,Available,8333.333333333334,7,1,2,302.82,0.5141,1
+5,Karnataka,Bengaluru,Electronic City,Apartment,2,900,55,2012,Unfurnished,2,7,3,2,Low,1,Gated,,East,Individual,Available,6111.111111111111,13,0,0,80.43,0.4623636363636365,1
+6,Tamil Nadu,Chennai,Anna Nagar,House,3,1500,95,2000,Semi-Furnished,2,2,4,3,Medium,1,Guard,Gym;Pool,North,Individual,Available,6333.333333333333,25,1,2,138.93,0.462421052631579,1

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/reddy/OneDrive/Desktop/real estate predection/mlruns/1/models/m-e800894149514d08981712c98b9d0617/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.7.0
+model_id: m-e800894149514d08981712c98b9d0617
+model_size_bytes: 19596
+model_uuid: m-e800894149514d08981712c98b9d0617
+prompts: null
+run_id: 8e46ee1316d541bda345beba6cf34542
+utc_time_created: '2025-12-05 16:37:24.150644'
