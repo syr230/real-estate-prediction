@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data / models / mlflow artifacts
+data/cleaned.csv
+models/
+mlruns/
+mlflow.db
+
+# IDE
+.vscode/
